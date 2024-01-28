@@ -1,0 +1,49 @@
+.ortasi-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 230px;
+}
+.ortasi-text-h4 {
+    color: var(--Colour-Main-Grey-400, #939EA4);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Medium 14 */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 171.429% */
+}
+.ortasi-brn {
+    border-radius: 2px;
+    background: var(--Colour-Main-Blue-800, #111B47);
+    color: var(--colour-secondary-white-100-general, #FFF);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Medium 14 */
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 171.429% */
+    padding: 7px 40px;
+    border-radius: 10px;
+}
+.ortasi-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 61px;
+}
+.ortasi-h4 {
+    color: var(--Colour-Main-Blue-300, #929ECC);
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Regular 14 */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}

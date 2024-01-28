@@ -1,0 +1,60 @@
+.fakshin-box{
+    margin-top: 200px;
+}
+
+.fakshin-h2 {
+    color: var(--Colour-Main-Blue-900, #091133);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Medium 36 */
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 48px; /* 133.333% */
+margin-top: 20px;
+}
+.fakshin-p {
+    color: var(--Colour-Main-Blue-400, #6F7CB2);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Regular 16 */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+width: 600px;
+margin-left: 250px;
+}
+.fakshin-text {
+    color: var(--Colour-Main-Grey-600, #5D6970);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+
+/* Regular 14 */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
+.fakshin-btn {
+    border-radius: 2px;
+background: var(--Colour-Main-Blue-800, #111B47);
+color: var(--colour-secondary-white-100-general, #FFF);
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+/* Medium 14 */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 171.429% */
+padding: 7px 40px;
+border-radius: 5px;
+margin-left: 460px;
+margin-top: 30px;
+}
